@@ -17,7 +17,7 @@ export default function Footer({ setCurrentView }: FooterProps) {
   return (
     <footer className="w-full py-8 px-6 md:px-16 flex flex-col md:flex-row justify-between items-center gap-4 bg-[#0b1326] border-t border-[#5b4138]/40 mt-auto font-mono text-xs text-slate-400">
       <div className="uppercase tracking-widest text-center md:text-left text-slate-500 font-medium">
-        © 2026 NEXUS_CORE // MANISH SATHE
+        © 2026 ☕︎ 👩🏻‍💻  // MANISH SATHE
       </div>
 
       <ul className="flex items-center gap-6">
